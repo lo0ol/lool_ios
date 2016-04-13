@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.maker.makeblock</string>
+                <string>com.makerworks.makeblock</string>
                 <key>bundle-version</key>
                 <string>1.0.11</string>
                 <key>kind</key>
